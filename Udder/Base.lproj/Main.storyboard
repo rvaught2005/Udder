@@ -31,18 +31,18 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Cow1024" translatesAutoresizingMaskIntoConstraints="NO" id="dfI-R9-bkf">
-                                <rect key="frame" x="38" y="184" width="298" height="298"/>
+                                <rect key="frame" x="-20" y="273" width="415" height="415"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" red="0.46202266219999999" green="0.83828371759999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="Sab-ls-TcL" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="56" id="1qc-fL-gFv"/>
-                            <constraint firstItem="dfI-R9-bkf" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="5c1-yL-glH"/>
+                            <constraint firstItem="dfI-R9-bkf" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="147" id="5c1-yL-glH"/>
                             <constraint firstItem="LCn-H5-zFA" firstAttribute="top" secondItem="Sab-ls-TcL" secondAttribute="bottom" constant="8" symbolic="YES" id="CUH-8Z-fR0"/>
                             <constraint firstItem="dfI-R9-bkf" firstAttribute="centerX" secondItem="Sab-ls-TcL" secondAttribute="centerX" id="Oy3-xU-Rji"/>
                             <constraint firstItem="LCn-H5-zFA" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="ZU0-3c-w1o"/>
-                            <constraint firstItem="dfI-R9-bkf" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="38" id="db8-5C-hIE"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="dfI-R9-bkf" secondAttribute="bottom" constant="185" id="s9P-Rx-lpv"/>
+                            <constraint firstItem="dfI-R9-bkf" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="-20" id="db8-5C-hIE"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="dfI-R9-bkf" secondAttribute="bottom" constant="-21" id="s9P-Rx-lpv"/>
                             <constraint firstItem="Sab-ls-TcL" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="tCH-Hq-1xf"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
